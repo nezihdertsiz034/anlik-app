@@ -1,7 +1,7 @@
 {
-  "name": "Anlık",
+  "name": "Anlık.app",
   "short_name": "Anlık",
-  "description": "Ephemeral video sharing app.",
+  "description": "Gerçek Anlar. Anlık.",
   "start_url": "/web/app.html",
   "display": "standalone",
   "background_color": "#000000",
