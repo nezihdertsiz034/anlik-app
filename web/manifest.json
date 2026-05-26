@@ -1,0 +1,21 @@
+{
+  "name": "Anlık",
+  "short_name": "Anlık",
+  "description": "Ephemeral video sharing app.",
+  "start_url": "/web/app.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#6B46C1",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
